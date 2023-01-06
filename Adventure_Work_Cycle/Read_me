@@ -1,0 +1,12 @@
+To give insights to Adventure Works Cycles, a global manufacturing company.
+
+What I have Learnt :
+
+1.Design and developed a end-to-end business intelligence solution for Adventure Works Cycles dataset.
+2.Connect and transform the raw data 
+3.Build a relational data model 
+4.Create new calculated columns and DAX measures 
+5.Developed an interactive report to analyze and visualize the data
+
+The report clearly give insights about total orders, revenue, profit by each category , sub-category and continent.It also describes the product details like monthly orders,
+revenue, returns, weekly profit and customer details describing the revenue, orders by each customer and orders by each category.
